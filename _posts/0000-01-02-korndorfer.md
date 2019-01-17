@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Come to dark side of the force!
 Use the left arrow to go back!
